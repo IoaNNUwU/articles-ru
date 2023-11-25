@@ -36,7 +36,6 @@ fn main() {
 
 ---
 
-<!-- ignore -->
 ```rust
 struct User { id: i32 }
 
